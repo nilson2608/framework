@@ -1,0 +1,86 @@
+.blue{
+    background-color: lightblue;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 10vh;
+    color: white; 
+    
+    
+}
+
+.blue1{
+    background-color: blue;
+
+  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 20vh;
+    color: white;   
+
+}
+
+
+.orange{
+    background-color :orange;
+    text-align: center;
+    height: 250px;
+    padding: 80px;
+ 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 20vh;
+    color: white; 
+}
+
+.green{
+    background-color :green;
+    text-align: center;
+    height: 250px;
+    padding: 80px;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 20vh;
+    color: white; 
+
+}
+
+.violet{
+    background-color :violet;
+    text-align: center;
+    height: 250px;
+    padding: 80px;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 20vh;
+    color: white; 
+}
+.h1c{
+    text-align: center;
+    color:white;
+    font-size: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 20vh;
+    color: white; 
+   
+}
+
+.h1b{
+    text-align: center;
+    color:white;
+    font-size: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 20vh;
+
+}
